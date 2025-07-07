@@ -1,0 +1,4 @@
+Module:Reusable piece of code, encapsulated from other modules and have its own scope;
+ES module:
+
+export are of 2 types in es module:  default and named export
