@@ -1,0 +1,6 @@
+npm: package manager for node.js
+create package, intsall package, publish package
+repository:will get all npm package
+
+difference between dependency and dev-dependency:
+dependency required during development is called dev dependency not  required during production
