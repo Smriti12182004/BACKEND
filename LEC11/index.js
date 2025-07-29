@@ -32,10 +32,10 @@ console.log(el6);
 // console.log(data3);
 // console.log(data4);
 // ul.innerHTML = `
-{/* <li class="item">item4</li>
+/* {<li class="item">item4</li>
 <li class="item">item5</li>
 <li class="item">item6</li>
-`; */}
+`; ]*/
 
 /*
 getAttribute
@@ -48,7 +48,8 @@ classList
 // console.log(el5.getAttribute("class"));
 // el5.setAttribute("id","js");
 // console.dir(el5.getAttribute("id"));
-el5.classList.add("delete");
-console.log(el5.classList.contains("delete"));
-el5.classList.remove("item");
-console.log(el5.classList);
+// el5.classList.add("delete");
+// console.log(el5.classList.contains("delete"));
+// el5.classList.remove("item");
+// console.log(el5.classList);
+
