@@ -19,3 +19,9 @@ function addTodo(todo){
 todoContainer.appendChild(li)
 }
 addTodo(todo);
+function showAllTodos(todos){
+    todos.forEach(todo=>{
+        addTodo(todo)
+    });
+}
+showAllTodos(todos)

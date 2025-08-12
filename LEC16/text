@@ -1,0 +1,3 @@
+mongoose:stores data in psom format...ODM object document method
+used to connect server with mongodb
+schema made in model folder
